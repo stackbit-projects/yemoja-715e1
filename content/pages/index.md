@@ -10,7 +10,7 @@ sections:
       We're on a mission to bring cryptocurrency market data to the masses, in
       an easy-to-consume & on-demand format.
     actions:
-      - label: Learn More
+      - label: Get in Touch
         url: /contact
         style: primary
   - section_id: features

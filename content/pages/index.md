@@ -78,7 +78,7 @@ sections:
         url: /contact
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
+  title: Yemoja Trading
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'

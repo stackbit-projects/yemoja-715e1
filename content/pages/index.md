@@ -75,7 +75,7 @@ sections:
     subtitle: Get in touch with us for more information about our new service.
     actions:
       - label: Get in Touch
-        url: /signup
+        url: 'mailto:support@yemoja.co'
         style: primary
   - section_id: recent-posts
     type: section_posts

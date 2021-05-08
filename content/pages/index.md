@@ -11,7 +11,7 @@ sections:
       an easy-to-consume & on-demand format.
     actions:
       - label: Learn More
-        url: /features
+        url: /contact
         style: primary
   - section_id: features
     type: section_features

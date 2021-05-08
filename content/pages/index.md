@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: white
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Offering a fast and easy-to-consume API for all market & tick data
     features:
       - title: The Best Feature of Your Services
         image: images/crypto-1 copy.jpg

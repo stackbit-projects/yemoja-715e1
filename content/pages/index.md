@@ -28,7 +28,7 @@ sections:
           data we provide is accurate.
         actions: []
       - title: Awesome Feature of Your Services
-        image: images/feature2.png
+        image: images/20945665.jpg
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec

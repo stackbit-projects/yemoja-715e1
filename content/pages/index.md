@@ -42,7 +42,7 @@ sections:
           questions.
         actions:
           - label: Contact Us
-            url: 'mailto:support@yemoja.co'
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right

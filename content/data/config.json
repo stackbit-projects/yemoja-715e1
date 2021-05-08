@@ -5,7 +5,7 @@
     "palette": "blue",
     "header": {
         "logo_img_alt": "Logo",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",

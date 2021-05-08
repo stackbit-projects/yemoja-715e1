@@ -22,10 +22,10 @@ sections:
       - title: Reliable Data
         image: images/crypto-1 copy.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          We take the worry out of managing vast volumes of market data. With
+          redundancy and highly scalable architecture, you can rest assured the
+          data we provide is accurate.
         actions:
           - label: Learn More
             url: /features

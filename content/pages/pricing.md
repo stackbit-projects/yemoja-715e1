@@ -66,10 +66,8 @@ sections:
         answer: |
           Yes - please contact us to discuss!
       - question: What is your refund policy?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: |
+          We offer a 14 day refund policy.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac

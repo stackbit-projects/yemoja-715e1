@@ -33,13 +33,7 @@ sections:
         content: >
           With powerful APIs, you can query exactly what you need without having
           to worry about transforming the data.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview

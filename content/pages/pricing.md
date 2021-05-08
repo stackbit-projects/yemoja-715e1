@@ -22,12 +22,9 @@ sections:
       - title: Professional
         subtitle: For medium-sized businesses
         price: $499/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: >
+          *   *   Filtering*   Sorting*   250+ currencies*   24/7 Customer
+          Support
         highlight: true
         actions:
           - label: Order Now

@@ -34,7 +34,7 @@ sections:
           With powerful APIs, you can query exactly what you need without having
           to worry about transforming the data.
         actions: []
-      - title: Cool Feature of Your Services
+      - title: Support when you need it
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-

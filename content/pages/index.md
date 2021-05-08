@@ -41,7 +41,7 @@ sections:
           With 24/7 support available, we are always here if you have any
           questions.
         actions:
-          - label: Learn More
+          - label: Contact Us
             url: /features
             style: secondary
             has_icon: true

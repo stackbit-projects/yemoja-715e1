@@ -65,7 +65,7 @@ sections:
       - question: Do you offer education discounts?
         answer: |
           Yes - please contact us to discuss!
-      - question: Aliquam eget purus ante?
+      - question: What i
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque

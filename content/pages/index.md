@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/11_thumb.jpg
+    image: images/feature2.png
     image_alt: App preview
     title: We are Yemoja
     content: >

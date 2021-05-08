@@ -15,10 +15,7 @@ sections:
           *   Filtering
           *   Sorting
           *   50+ currencies
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
+        actions: []
       - title: Professional
         subtitle: For medium-sized businesses
         price: $499/m

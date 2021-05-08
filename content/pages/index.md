@@ -75,7 +75,7 @@ sections:
     subtitle: Get in touch with us for more information about our new service.
     actions:
       - label: Get in Touch
-        url: 'mailto:support@yemoja.co'
+        url: /contact
         style: primary
 seo:
   title: Stackbit Azimuth Theme

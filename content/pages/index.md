@@ -30,10 +30,9 @@ sections:
       - title: Take what you need
         image: images/20945665.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          With powerful APIs, you can query exactly what you need without having
+          to worry about transforming the data.
         actions:
           - label: Learn More
             url: /features

@@ -26,13 +26,7 @@ sections:
           We take the worry out of managing vast volumes of market data. With
           redundancy and highly scalable architecture, you can rest assured the
           data we provide is accurate.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member

@@ -71,7 +71,7 @@ sections:
         content: Really excited to try the new API out when it's ready!
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Want to know more?
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started

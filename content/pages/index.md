@@ -27,7 +27,7 @@ sections:
           redundancy and highly scalable architecture, you can rest assured the
           data we provide is accurate.
         actions: []
-      - title: Awesome Feature of Your Services
+      - title: Take what you need
         image: images/20945665.jpg
         image_alt: App users welcoming a new member
         content: >-

@@ -79,7 +79,7 @@ sections:
         style: primary
 seo:
   title: Yemoja Trading
-  description: The preview of the Azimuth theme
+  description: Welcome to Yemoja
   extra:
     - name: 'og:type'
       value: website

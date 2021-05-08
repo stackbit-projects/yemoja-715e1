@@ -45,32 +45,6 @@
                 "content": "Stackbit theme demo"
             },
             {
-                "type": "footer_nav",
-                "title": "Company",
-                "nav_links": [
-                    {
-                        "label": "About Us",
-                        "url": "/about",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Blog",
-                        "url": "/blog",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
                 "type": "footer_form",
                 "title": "Subscribe",
                 "content": "Stay up to date with our latest developments.",

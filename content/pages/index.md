@@ -37,10 +37,9 @@ sections:
       - title: Support when you need it
         image: images/Wavy_Tech-24_Single-12.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          With 24/7 support available, we are always here if you have any
+          questions.
         actions:
           - label: Learn More
             url: /features

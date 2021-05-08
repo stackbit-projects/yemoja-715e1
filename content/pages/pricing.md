@@ -40,11 +40,18 @@ sections:
       - title: Enterprise
         subtitle: For very large businesses
         price: Contact us
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Easy-to-consume data in API format
+
+          *   Filtering
+
+          *   Sorting
+
+          *   500+ currencies
+
+          *   Dedicated API access
+
+          *   24/7 Customer Support
         actions:
           - label: Order Now
             url: /signup

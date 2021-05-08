@@ -35,7 +35,7 @@ sections:
           to worry about transforming the data.
         actions: []
       - title: Support when you need it
-        image: images/feature3.png
+        image: images/Wavy_Tech-24_Single-12.jpg
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean

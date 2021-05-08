@@ -22,9 +22,16 @@ sections:
       - title: Professional
         subtitle: For medium-sized businesses
         price: $499/m
-        details: >
-          *   *   Filtering*   Sorting*   250+ currencies*   24/7 Customer
-          Support
+        details: |
+          *   Easy-to-consume data in API format
+
+          *   Filtering
+
+          *   Sorting
+
+          *   250+ currencies
+
+          *   24/7 Customer Support
         highlight: true
         actions:
           - label: Order Now

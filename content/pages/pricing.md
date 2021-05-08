@@ -10,11 +10,11 @@ sections:
       - title: Basic
         subtitle: For small businesses
         price: $49/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Easy-to-consume data in API format
+          *   Filtering
+          *   Sorting
+          *   50+ currencies
         actions:
           - label: Order Now
             url: /signup

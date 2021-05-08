@@ -72,7 +72,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Want to know more?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Get in touch with us for more information about our new service.
     actions:
       - label: Get Started
         url: /signup

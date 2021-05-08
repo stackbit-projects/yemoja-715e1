@@ -74,7 +74,7 @@ sections:
     title: Want to know more?
     subtitle: Get in touch with us for more information about our new service.
     actions:
-      - label: Get Started
+      - label: Get in Touch
         url: /signup
         style: primary
   - section_id: recent-posts

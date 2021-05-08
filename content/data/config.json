@@ -14,7 +14,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "mailto:support@yemoja.co",
+                "url": "/contact",
                 "style": "primary"
             }
         ],

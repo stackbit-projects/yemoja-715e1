@@ -19,7 +19,7 @@ sections:
     title: Features
     subtitle: Offering a fast and easy-to-consume API for all market & tick data
     features:
-      - title: The Best Feature of Your Services
+      - title: Reliable Data
         image: images/crypto-1 copy.jpg
         image_alt: App preview on a phone and tablet
         content: >-

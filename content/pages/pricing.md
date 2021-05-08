@@ -46,10 +46,7 @@ sections:
           *   Dedicated API access
 
           *   24/7 Customer Support
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
+        actions: []
   - section_id: faq
     type: section_faq
     background: gray

@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: We are Yemoja
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      We're on a mission to bring cryptocurrency market data to the masses, in
+      an easy-to-consume & on-demand format.
     actions:
       - label: Learn More
         url: /features

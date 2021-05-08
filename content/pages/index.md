@@ -15,7 +15,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: Features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus

@@ -30,10 +30,7 @@ sections:
 
           *   24/7 Customer Support
         highlight: true
-        actions:
-          - label: Order Now
-            url: /signup
-            style: primary
+        actions: []
       - title: Enterprise
         subtitle: For very large businesses
         price: Contact us
